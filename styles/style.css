@@ -1,0 +1,30 @@
+* {
+  font-family: 'sans-serif';
+  color: white;
+}
+
+body {
+  margin: 0 auto;
+  background-color: gray;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+table {
+  border: 1px solid white;
+}
+
+th {
+  border: 1px solid white;
+  padding: 5px;
+}
+
+ol {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
